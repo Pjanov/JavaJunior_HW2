@@ -1,6 +1,6 @@
 package ru.pjanov;
 
-public class Cat extends Animal implements ReproducibleSound{
+public class Cat extends Animal implements ReproducibleSound {
     private boolean isPlayful;
 
     public Cat(String name, int age, boolean isPlayful) {
