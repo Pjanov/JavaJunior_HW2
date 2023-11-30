@@ -25,6 +25,9 @@ abstract class Animal {
         this.age = age;
     }
 
+    /**
+     * Издавать звуки
+     */
     public abstract void makeSound();
 }
 
